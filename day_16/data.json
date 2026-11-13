@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"name": "Avery",
+		"category": "alpha",
+		"value": 42,
+		"active": true,
+		"tags": ["sample", "north"]
+	},
+	{
+		"id": 2,
+		"name": "Jordan",
+		"category": "beta",
+		"value": 17,
+		"active": false,
+		"tags": ["demo", "west"]
+	},
+	{
+		"id": 3,
+		"name": "Morgan",
+		"category": "alpha",
+		"value": 86,
+		"active": true,
+		"tags": ["sample", "east"]
+	},
+	{
+		"id": 4,
+		"name": "Riley",
+		"category": "gamma",
+		"value": 31,
+		"active": true,
+		"tags": ["demo", "south"]
+	},
+	{
+		"id": 5,
+		"name": "Casey",
+		"category": "beta",
+		"value": 59,
+		"active": false,
+		"tags": ["sample", "central"]
+	}
+]
